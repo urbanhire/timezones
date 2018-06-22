@@ -1,15 +1,10 @@
-/*!
+/*
  * timezones - A jQuery plugin to turn a select box into a timezone selector
  * v0.1.0
  * https://github.com/firstandthird/timezones
  * copyright First+Third 2014
  * MIT License
 */
-//! moment.js
-//! version : 2.8.3
-//! authors : Tim Wood, Iskren Chernev, Moment.js contributors
-//! license : MIT
-//! momentjs.com
 
 (function (undefined) {
     /************************************

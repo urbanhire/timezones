@@ -1,4 +1,4 @@
-/*!
+/*
  * timezones - A jQuery plugin to turn a select box into a timezone selector
  * v0.1.0
  * https://github.com/firstandthird/timezones
